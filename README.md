@@ -2,7 +2,7 @@
 - 👀 I’m Currently  learning Web development
 - 🌱 Python, Html, CSS, Javascript
 - 💞️ I'm looking to collaborate on any aspect involving my skill set.
-- 📫 You can reach me through my GitHub account github.com/bobleeswagger09
+- 📫 You can reach me through Twitter @sammyswagger5
 
 <!---
 Bobleeswagger09/Bobleeswagger09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
