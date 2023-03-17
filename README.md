@@ -1,42 +1,60 @@
-<h1 align="center">Hi there 👋, I'm Edidiong Samuel Alexander</h1>
+<h1 align="center">Hi 👋, I'm Edidiong Samuel Alexander</h1>
 <p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat-Black&pause=1000&color=FFFFFF&background=000000EE&width=435&lines=Intrest+In+Full-stack+Web Devlopment;Tech Enthusiast" style="max-width:100%" alt="Typing SVG" /></a>
-    
+    <a href="https://git.io/typing-svg"><img
+            src="https://readme-typing-svg.demolab.com?font=Montserrat-Black&pause=1000&color=FFFFFF&background=00000008&center=true&vCenter=true&width=435&lines=Understand+More+Fear+less;Self-taught+Software+Developer;Specializes+In+Both;Frontend+and+Backend+Web+Development;More+Focused+on+Backend;Newbie"
+            style="max-width;100%" alt="Typing SVG" /></a>
+
 </p>
-
-
 
 <img title="thoughtworks-gif_dribbble.gif" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 
+- 🌱 I’m currently learning **The Complete 2023 Web Development Online Bootcamp by Dr. Angela Yu**
 
-<h3 align="center">A p</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bobleeswagger09&label=Profile%20views&color=0e75b6&style=flat" alt="bobleeswagger09" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bobleeswagger09" alt="bobleeswagger09" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@edidiongsammy09" target="blank"><img src="https://img.shields.io/twitter/follow/@edidiongsammy09?logo=twitter&style=for-the-badge" alt="@edidiongsammy09" /></a> </p>
-
-- 🌱 I’m currently learning **Express, React**
-
-- 🤝 I’m looking for help with **Express**
-
-- 💬 Ask me about **Html, CSS, Javascript, Dom.**
+- 👯 I’m looking to collaborate on **Projects Involving my skillset**
 
 - 📫 How to reach me **samuelvictoralexander@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/edidiong victor samuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="edidiong victor samuel" height="30" width="40" /></a>
-<a href="https://twitter.com/@edidiongsammy09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@edidiongsammy09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/victor (alexander) samuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor (alexander) samuel" height="30" width="40" /></a>
+    <a href="https://twitter.com/@edidiongsammy09" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="@edidiongsammy09" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/victor samuel" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="victor samuel" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h3 align="left">
+    <a href="https://git.io/typing-svg"><img
+            src="https://readme-typing-svg.demolab.com?font=prompt&pause=1000&color=FFFFFF&background=000000F3&center=true&vCenter=true&width=435&lines=My+core+Languages%3A;+Tech-stack%3A;+Frameworks+I+use%3A;Tools+I+use%3A"
+            alt="Typing SVG" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bobleeswagger09&show_icons=true&locale=en&layout=compact" alt="bobleeswagger09" /></p>
+</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
+        rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3" width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+            alt="express" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank"
+        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"
+            height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank"
+        rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="nodejs" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank"
+        rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="40" height="40" /> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bobleeswagger09&show_icons=true&locale=en" alt="bobleeswagger09" /></p>
+<p><img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=bobleeswagger09&show_icons=true&locale=en&layout=compact"
+        alt="bobleeswagger09" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bobleeswagger09&" alt="bobleeswagger09" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bobleeswagger09&"
+        alt="bobleeswagger09" /></p>
