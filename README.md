@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edidiong Samuel Alexander</h1>
-<p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%23FFf&background=15C3411A&width=500&lines=Understand+More+Fear+less;Tech+Enthusiast;Intrested+In+Fullstack+Web+Development;Self-taught;Newbie;" style="max-width;100%" alt="Typing SVG" /></a>
+<p align=center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Lao&weight=500&size=23&duration=5201&pause=899&color=FFFFFF&center=true&vCenter=true&width=504&lines=Understand+More+Fear+less;Interested+In+Fullstack+Web+Development;Tech Enthusiast;Code+Newbie" alt="Typing SVG" /></a>
 
 </p>
 
