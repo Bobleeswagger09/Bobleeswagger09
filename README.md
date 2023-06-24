@@ -13,9 +13,6 @@
 - Actively cultivating a growth mindset."
 - 👯 I’m looking to collaborate on **Projects Involving my skillset**
 - 🔭 I’m currently working on [My Portfolio Weebsite](https://github.com/Bobleeswagger09/Victor-s-_Portfolio/deployments/activity_log?environment=Production+%E2%80%93+victor-s-portfolio-b9lg)
-
-- 👨‍💻 Check out some of my projects [https://github.com/Bobleeswagger09/Victor-s-_Portfolio/deployments/activity_log?environment=Production+%E2%80%93+victor-s-portfolio-b9lg](https://github.com/Bobleeswagger09/Victor-s-_Portfolio/deployments/activity_log?environment=Production+%E2%80%93+victor-s-portfolio-b9lg)
-
 - 📝 Blog Website (Comming Soon)
 
 - 📫 How to reach me **samuelvictoralexander@gmail.com**
