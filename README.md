@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edidiong Samuel Alexander</h1>
-<h3 align="center">A passionate Full-stack Engineer from Nigeria</h3>
-<p align=right>
+<p align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Lao&weight=500&size=23&duration=5201&pause=899&color=FFFFFF&center=true&vCenter=true&width=504&lines=Understand+More+Fear+less;Interested+In+Fullstack+Web+Development;Tech Enthusiast;Code+Newbie" alt="Typing SVG" /></a>
 
 </p>
