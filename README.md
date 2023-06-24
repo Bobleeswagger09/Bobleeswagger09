@@ -7,7 +7,7 @@
 <img title="thoughtworks-gif_dribbble.gif" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 
 - 🌱 I’m currently learning **The Complete 2023 Web Development Online Bootcamp by Dr. Angela Yu**
-- 🌱 Expanding my understanding in python by using **100 days of code by Dr Angela Yu**
+- 🌱 Expanding my understanding in Python using **100 days of code by Dr Angela Yu**
 - On a journey to become a full stack software engineer.
 - Currently a student @ALX Africa.
 - Actively cultivating a growth mindset."
