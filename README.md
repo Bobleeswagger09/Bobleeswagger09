@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edidiong Samuel Alexander</h1>
-<p align=center>
+<h3 align="center">A passionate Full-stack Engineer from Nigeria</h3>
+<p align=right>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Lao&weight=500&size=23&duration=5201&pause=899&color=FFFFFF&center=true&vCenter=true&width=504&lines=Understand+More+Fear+less;Interested+In+Fullstack+Web+Development;Tech Enthusiast;Code+Newbie" alt="Typing SVG" /></a>
 
 </p>
@@ -11,16 +12,8 @@
 - On a journey to become a full stack software engineer.
 - Currently a student @ALX Africa.
 - Actively cultivating a growth mindset."
-.
 - 👯 I’m looking to collaborate on **Projects Involving my skillset**
-
-<h3 align="center">A passionate Full-stack Engineer from Nigeria</h3>
-
 - 🔭 I’m currently working on [My Portfolio Weebsite](https://github.com/Bobleeswagger09/Victor-s-_Portfolio/deployments/activity_log?environment=Production+%E2%80%93+victor-s-portfolio-b9lg)
-
-- 🌱 I’m currently learning **🌱 I’m currently learning The Complete 2023 Web Development Online Bootcamp by Dr. Angela Yu**
-
-- 👯 I’m looking to collaborate on **Involving skill set**
 
 - 👨‍💻 Check out some of my projects [https://github.com/Bobleeswagger09/Victor-s-_Portfolio/deployments/activity_log?environment=Production+%E2%80%93+victor-s-portfolio-b9lg](https://github.com/Bobleeswagger09/Victor-s-_Portfolio/deployments/activity_log?environment=Production+%E2%80%93+victor-s-portfolio-b9lg)
 
