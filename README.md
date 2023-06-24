@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Edidiong Samuel</h1>
-<p align=center>
+<p align=left>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Lao&weight=500&size=23&duration=5201&pause=899&color=FFFFFF&center=true&vCenter=true&width=504&lines=Understand+More+Fear+less;Interested+In+Fullstack+Web+Development;Learn a little Practice More;Knowledge build upon knowledge;Tech Enthusiast;Code+Newbie" alt="Typing SVG" /></a>
 
 </p>
