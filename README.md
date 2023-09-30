@@ -10,9 +10,6 @@
 - 🌱 Expanding my understanding on Python using **100 days of code by Dr Angela Yu**
 - On a journey to become a full stack software engineer.
 - 👯 I’m looking to collaborate on **Projects Involving my skillset**
-- 🔭 I’m currently working on [My Portfolio Weebsite](https://github.com/Bobleeswagger09/Victor-s-_Portfolio/deployments/activity_log?environment=Production+%E2%80%93+victor-s-portfolio-b9lg)
-- 📝 Blog Website (Comming Soon)
-
 - 📫 How to reach me **samuelvictoralexander@gmail.com**
 
 
