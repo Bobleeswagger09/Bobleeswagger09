@@ -8,14 +8,14 @@
 
 - 🌱 I’m currently learning **The Complete 2023 Web Development Online Bootcamp by Dr. Angela Yu**
 - 🌱 Expanding my understanding on Python using **100 days of code by Dr Angela Yu**
-- On a journey to become a full stack software engineer.
+- Fullstack Software Engineer.
 - 👯 I’m looking to collaborate on **Projects Involving my skillset**
 - 📫 How to reach me **samuelvictoralexander@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/EdidiongSammy09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="victor samuel" height="30" width="40" /></a>
+<a href="https://x.com/SecureBootSammy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="victor samuel" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/victor-samuel-42a092220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor (edidiong) samuel" height="30" width="40" /></a>
 </p>
 
