@@ -3,8 +3,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Lao&weight=500&size=23&duration=5201&pause=899&color=FFFFFF&center=true&vCenter=true&width=504&lines=Understand+More+Fear+less;Interested+In+Fullstack+Web+Development;Learn a little, Practice More;Knowledge build upon knowledge;Tech Enthusiast;Code+Newbie" alt="Typing SVG" /></a>
 </p>
 
-- 🌱 I am currently enrolled in **The Complete 2023 Web Development Online Bootcamp by Dr. Angela Yu**
-- 🌱 Enhancing my Python skills with **100 Days of Code by Dr. Angela Yu**
+- 🌱 I’m currently learning **The Complete 2023 Web Development Online Bootcamp by Dr. Angela Yu**
+- 🌱 Expanding my understanding on Python using **100 Days of Code by Dr. Angela Yu**
 - 🌟 Fullstack Software Engineer.
 - 👯‍♂️ I’m looking to collaborate on **Projects Involving my skillset**
 - 💌 How to reach me **samuelvictoralexander@gmail.com**
@@ -19,6 +19,9 @@
 
 🌟 In the process of continuous learning and improvement.
 
+<h3 align="left">Skills & Specialties:</h3>
+<p>Fullstack Development, Frontend Development, Backend Development, DevOps, Software Testing, JavaScript, TypeScript, Python, C, Bash Scripting, HTML, CSS, React.js, Next.js, Express.js, Node.js, MongoDB, PostgreSQL, Prisma ORM, API Development, Web Security, Performance Optimization, SEO, Responsive Design</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://samuelvictor.vercel.app/" target="blank">🌐 Portfolio</a> | 
@@ -26,7 +29,7 @@
 <a href="https://www.linkedin.com/in/victor-samuel-42a092220/" target="blank">💼 LinkedIn (Follow Me!)</a>
 </p>
 
-<h3 align="left">💻 Tech Stack:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
@@ -35,6 +38,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
