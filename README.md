@@ -23,7 +23,7 @@
 ✅ **Building reusable UI components** for scalable applications\
 ✅ **Enhancing API performance and database efficiency** in backend projects\
 ✅ **Deep diving into system design & large-scale architecture concepts**\
-✅ **Contributing to open-source & mentoring developers**
+✅ **Mentoring developers**
 
 ---
 
@@ -59,17 +59,12 @@
 - Performance profiling & optimization techniques
 - DevOps & CI/CD automation
 - Performance optimization techniques in frontend & backend
-  
-
-🛠 **Building:**
-
-- Scalable admin dashboards with Next.js
-- Optimized API layers for high-traffic applications
 
 🎓 **Education & Experience:**
--Python (100 Days of Code - Dr. Angela Yu)
+- Python (100 Days of Code - Dr. Angela Yu)
 
 - 🎓 **ALX Software Engineering Program **
+  
 - **📊 HNG Internship Tracks:**
 
   &#x20; \- Frontend Development
