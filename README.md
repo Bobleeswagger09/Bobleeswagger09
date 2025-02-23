@@ -49,7 +49,6 @@
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-000?style=for-the-badge&logo=framer&logoColor=blue)
 ![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
-![Lenis](https://img.shields.io/badge/Lenis-000?style=for-the-badge&logo=three.js&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-000?style=for-the-badge&logo=greensock&logoColor=88CE02)
 
 ## **📚 Learning & Growth**
@@ -57,8 +56,8 @@
 
 - Advanced system design & scalability patterns
 - Advanced React Native navigation & gesture handling
--Performance profiling & optimization techniques
--DevOps & CI/CD automation
+- Performance profiling & optimization techniques
+- DevOps & CI/CD automation
 - Performance optimization techniques in frontend & backend
   
 
@@ -83,16 +82,6 @@
 
   &#x20; \- Testing (QA Engineer / Software Testers)
 
-
-  ## **📊 GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SecureBootSammy&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=SecureBootSammy&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
 ## **🚀 The Roadmap Ahead**
 
 📌 **Mastering advanced system design (microservices, serverless, caching, queuing)**\
@@ -109,16 +98,5 @@
 🌐 **Portfolio:** [samuelvictor.vercel.app](https://samuelvictor.vercel.app/)\
 🐦 **Twitter:** [SecureBootSammy](https://x.com/SecureBootSammy)\
 💼 **LinkedIn:** [Victor Samuel](https://www.linkedin.com/in/victor-samuel-42a092220/)
-
----
-## **📊 GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SecureBootSammy&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=SecureBootSammy&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
----
 
 🚀 **Always learning, always improving! Let's build something awesome!**
