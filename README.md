@@ -1,7 +1,41 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<p align=center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Lao&weight=500&size=23&duration=5201&pause=899&color=FFFFFF&center=true&vCenter=true&width=504&lines=Understand+More+Fear+less;Interested+In+Fullstack+Web+Development;Learn a little, Practice More;Knowledge build upon knowledge;Tech Enthusiast;Code+Newbie" alt="Typing SVG" /></a>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Lao&weight=500&size=23&duration=5201&pause=899&color=FFFFFF&center=true&vCenter=true&width=550&lines=Building+Scalable+and+Optimized+Web+Apps;Fullstack+Developer+%7C+Next.js+%7C+Node.js;Bridging+Frontend+and+Backend+Seamlessly;Problem+Solver+%7C+Tech+Enthusiast;Still+Learning%2C+Still+Improving+🚀" alt="Typing SVG" />
+  </a>
 </p>
+
+---
+
+### **💻 About Me**  
+🔹 **Fullstack Developer** with expertise in **Next.js, TypeScript, Express.js, MongoDB, and Prisma**  
+🔹 Passionate about **optimizing performance, SEO, and scalable architectures**  
+🔹 Strong focus on **frontend animations (Framer Motion, GSAP) & state management (Redux, useReducer)**  
+🔹 Experience in **API design, testing (Jest), and handling CORS & security best practices**  
+🔹 Constantly improving **debugging skills, system design, and architecture decisions**  
+
+---
+
+### **🚀 What I'm Working On**  
+✅ **Building reusable and scalable UI components** in Next.js  
+✅ **Improving API performance and database efficiency** in backend projects  
+✅ **Enhancing my knowledge of system design & large-scale application architecture**  
+✅ **Teaching, writing, and mentoring** to solidify my understanding  
+
+---
+
+### **🔥 The Path Forward**  
+📌 **Master advanced system design concepts (caching, microservices, serverless)**  
+📌 **Own and lead projects end-to-end, making confident technical decisions**  
+📌 **Get involved in open-source & contribute to larger codebases**  
+📌 **Level up debugging skills, reading stack traces & profiling performance issues**  
+📌 **Expand my technical writing & mentoring to help others grow**  
+
+---
+
+🚀 **Still learning, still improving. Let’s build something great!**  
+
 
 - 🌱 I’m currently learning **The Complete 2023 Web Development Online Bootcamp by Dr. Angela Yu**
 - 🌱 Expanding my understanding on Python using **100 Days of Code by Dr. Angela Yu**
