@@ -27,6 +27,72 @@
 
 ---
 
+## **💻 Skills & Tech Stack**
+### **Languages & Frameworks**
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-000?style=for-the-badge&logo=jest&logoColor=C21325)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### **Tools & Technologies**
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-000?style=for-the-badge&logo=framer&logoColor=blue)
+![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![Lenis](https://img.shields.io/badge/Lenis-000?style=for-the-badge&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-000?style=for-the-badge&logo=greensock&logoColor=88CE02)
+
+## **📚 Learning & Growth**
+🌱 **Currently Learning:**
+
+- Advanced system design & scalability patterns
+- Advanced React Native navigation & gesture handling
+-Performance profiling & optimization techniques
+-DevOps & CI/CD automation
+- Performance optimization techniques in frontend & backend
+  
+
+🛠 **Building:**
+
+- Scalable admin dashboards with Next.js
+- Optimized API layers for high-traffic applications
+
+🎓 **Education & Experience:**
+-Python (100 Days of Code - Dr. Angela Yu)
+
+- 🎓 **ALX Software Engineering Program **
+- **📊 HNG Internship Tracks:**
+
+  &#x20; \- Frontend Development
+
+  &#x20; \- Backend Development
+
+  &#x20; \- DevOps
+
+  &#x20; \- Mobile and Desktop Development
+
+  &#x20; \- Testing (QA Engineer / Software Testers)
+
+
+  ## **📊 GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SecureBootSammy&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=SecureBootSammy&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
 ## **🚀 The Roadmap Ahead**
 
 📌 **Mastering advanced system design (microservices, serverless, caching, queuing)**\
@@ -45,69 +111,14 @@
 💼 **LinkedIn:** [Victor Samuel](https://www.linkedin.com/in/victor-samuel-42a092220/)
 
 ---
-
-## **💻 Skills & Tech Stack**
-
-### **Languages & Frameworks**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### **Tools & Technologies**
-
-
-
-
-
-
-
-
-
----
-
-## **📚 Learning & Growth**
-
-🌱 **Currently Learning:**
-
-- Advanced system design & scalability patterns
-- Performance optimization techniques in frontend & backend
-- Python (100 Days of Code - Dr. Angela Yu)
-
-🛠 **Building:**
-
-- Scalable admin dashboards with Next.js
-- Optimized API layers for high-traffic applications
-
-🎓 **Education & Experience:**
-
-- 🎓 **ALX Software Engineering Program Graduate**
-- **📊 HNG Internship Tracks:**
-
-  &#x20; \- Frontend Development
-
-  &#x20; \- Backend Development
-
-  &#x20; \- DevOps
-
-  &#x20; \- Mobile and Desktop Development
-
-  &#x20; \- Testing (QA Engineer / Software Testers)
-
----
-
 ## **📊 GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SecureBootSammy&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=SecureBootSammy&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
 
+---
 ---
 
 🚀 **Always learning, always improving! Let's build something awesome!**
