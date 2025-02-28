@@ -64,18 +64,7 @@
 - Python (100 Days of Code - Dr. Angela Yu)
 
 - 🎓 **ALX Software Engineering Program **
-  
-- **📊 HNG Internship Tracks:**
 
-  &#x20; \- Frontend Development
-
-  &#x20; \- Backend Development
-
-  &#x20; \- DevOps
-
-  &#x20; \- Mobile and Desktop Development
-
-  &#x20; \- Testing (QA Engineer / Software Testers)
 
 ## **🚀 The Roadmap Ahead**
 
