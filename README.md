@@ -54,4 +54,30 @@ Python (100 Days of Code - Dr. Angela Yu)
 🐦 Twitter: SecureBootSammy
 💼 LinkedIn: Victor Samuel
 
-💼 DevOps S
+💼 DevOps Skills
+Cloud Platforms:
+Microsoft Azure (VMs)
+
+CI/CD Tools:
+GitHub Actions
+
+Containerization:
+Docker
+
+Infrastructure as Code:
+Terraform
+
+Programming/Scripting:
+Bash
+
+Monitoring:
+Prometheus
+
+DevOps Basics:
+Backup & Disaster Recovery, Load Balancing
+
+Networking & Security:
+VPNs, IAM basics
+
+Application Support:
+Node.js, Python
