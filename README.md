@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Lao&weight=500&size=23&duration=5201&pause=899&color=FFFFFF&center=true&vCenter=true&width=550&lines=Building+Scalable+and+Optimized+Web+Apps;Fullstack+Developer+%7C+Next.js+%7C+Node.js;Bridging+Frontend+and+Backend+Seamlessly;Problem+Solver+%7C+Tech+Enthusiast;Still+Learning%2C+Still+Improving+🚀" alt="Typing SVG" />
-</p>
-
 🌟 About Me
 💡 Passionate Fullstack Developer with expertise in Next.js, TypeScript, Express.js, MongoDB, and Prisma
 🔍 Focus Areas: Performance optimization, SEO, scalable architectures & security best practices
