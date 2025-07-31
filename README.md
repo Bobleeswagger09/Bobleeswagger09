@@ -1,84 +1,74 @@
-<h1 align="center">Hi 👋, I'm Victor</h1>
+<h1 align="center">Hi 👋, I'm Victor Samuel</h1>
 
-🌟 About Me
-💡 Passionate Fullstack Developer with expertise in Next.js, TypeScript, Express.js, MongoDB, and Prisma
-🔍 Focus Areas: Performance optimization, SEO, scalable architectures & security best practices
-🎨 Frontend Enthusiast: Framer Motion, GSAP, Responsive UI/UX, Animations
-⚙️ Backend Expertise: API design, authentication, database efficiency, caching & testing (Jest)
-🛠️ Problem-Solver: Focused on debugging and improving system design & architecture
+🌟 **About Me**  
+💡 Full-Stack Developer passionate about building scalable, performant, and secure web applications.  
+🔍 **Specialties**: SEO, architecture design, system performance optimization, and developer mentorship.  
+🎨 **Frontend Focus**: Next.js, TypeScript, Tailwind CSS, Framer Motion, GSAP — building delightful UI/UX with responsiveness and animations.  
+⚙️ **Backend Strengths**: Express.js, Prisma, MongoDB — API design, authentication, caching, and test-driven development (Jest).  
+🛠️ **Mindset**: Obsessed with clean architecture, debugging, and writing maintainable, production-ready code.
 
-🔥 What I'm Currently Working On
-Building reusable UI components for scalable applications
+---
 
-Enhancing API performance and database efficiency in backend projects
+🔥 **What I'm Currently Working On**  
+- Building reusable, scalable UI components and layout systems  
+- Improving backend API performance and database query efficiency  
+- Deep diving into system design principles and distributed architecture  
+- Mentoring upcoming developers and contributing to community learning  
 
-Deep diving into system design & large-scale architecture concepts
+---
 
-Mentoring developers and helping others grow in their careers
+💻 **Tech Stack**
 
-💻 Skills & Tech Stack
-Languages & Frameworks
+**Languages & Frameworks**  
+- JavaScript / TypeScript  
+- Next.js, React, Express.js, Node.js  
+- Python (100 Days of Code – Dr. Angela Yu)
 
+**Databases & ORMs**  
+- MongoDB, PostgreSQL  
+- Prisma, Mongoose
 
-Tools & Technologies
+**DevOps & Cloud**  
+- Docker, GitHub Actions  
+- Microsoft Azure (VMs)  
+- Terraform (IaC), Bash scripting
 
+**Testing & Monitoring**  
+- Jest, Supertest  
+- Prometheus, Load Testing tools
 
-📚 Learning & Growth
-🌱 Currently Learning:
+**Other Tools**  
+- Postman, VSCode, Figma  
+- Git & GitHub, Vercel  
 
-Advanced system design & scalability patterns
+---
 
-Advanced React Native navigation & gesture handling
+📚 **Learning & Growth**
 
-Performance profiling & optimization techniques
+🌱 Currently Exploring:  
+- Advanced system design (microservices, serverless, caching, queuing)  
+- React Native: navigation & gesture handling  
+- Frontend and backend performance profiling  
+- CI/CD best practices & DevOps automation  
+- Open-source contributions & technical writing  
 
-DevOps & CI/CD automation
+🎓 **Education**  
+- ALX Software Engineering Program  
+- 100 Days of Code – Dr. Angela Yu (Python & Web Dev)
 
-Performance optimization techniques in frontend & backend
+---
 
-🎓 Education & Experience:
+🚀 **Roadmap Goals**
+- Master scalable systems and lead end-to-end architecture decisions  
+- Level up debugging and profiling for enterprise-scale applications  
+- Expand DevOps skillset and CI/CD pipelines  
+- Contribute to open-source, write technical content, and mentor more developers  
 
-Python (100 Days of Code - Dr. Angela Yu)
+---
 
-🎓 ALX Software Engineering Program
+🌐 **Let’s Connect**  
+📫 **Email**: [samuelvictoralexander@gmail.com](mailto:samuelvictoralexander@gmail.com)  
+🌍 **Portfolio**: [samuelvictor.vercel.app](https://samuelvictor.vercel.app)  
+🐦 **Twitter**: [@SecureBootSammy](https://twitter.com/SecureBootSammy)  
+💼 **LinkedIn**: [Victor Samuel](https://www.linkedin.com/in/ediong-seyene-samuel-42a092220/)
 
-🚀 The Roadmap Ahead
-📌 Mastering advanced system design (microservices, serverless, caching, queuing)
-📌 Owning & leading projects end-to-end, making confident technical decisions
-📌 Optimizing debugging skills & performance profiling for large applications
-📌 Expanding into DevOps & CI/CD automation
-📌 Contributing more to open-source projects & technical writing
-
-🌍 Connect with Me
-📫 Email: samuelvictoralexander@gmail.com
-🌐 Portfolio: samuelvictor.vercel.app
-🐦 Twitter: SecureBootSammy
-💼 LinkedIn: Victor Samuel
-
-💼 DevOps Skills
-Cloud Platforms:
-Microsoft Azure (VMs)
-
-CI/CD Tools:
-GitHub Actions
-
-Containerization:
-Docker
-
-Infrastructure as Code:
-Terraform
-
-Programming/Scripting:
-Bash
-
-Monitoring:
-Prometheus
-
-DevOps Basics:
-Backup & Disaster Recovery, Load Balancing
-
-Networking & Security:
-VPNs, IAM basics
-
-Application Support:
-Node.js, Python
