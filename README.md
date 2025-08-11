@@ -22,6 +22,7 @@
 **Languages & Frameworks**  
 - JavaScript / TypeScript  
 - Next.js, React, Express.js, Node.js  
+- Golang  
 - Python (100 Days of Code – Dr. Angela Yu)
 
 **Databases & ORMs**  
@@ -53,6 +54,7 @@
 - Open-source contributions & technical writing  
 
 🎓 **Education**  
+- Miva Open University  
 - ALX Software Engineering Program  
 - 100 Days of Code – Dr. Angela Yu (Python & Web Dev)
 
@@ -71,4 +73,3 @@
 🌍 **Portfolio**: [samuelvictor.vercel.app](https://samuelvictor.vercel.app)  
 🐦 **Twitter**: [@SecureBootSammy](https://twitter.com/SecureBootSammy)  
 💼 **LinkedIn**: [Victor Samuel](https://www.linkedin.com/in/ediong-seyene-samuel-42a092220/)
-
