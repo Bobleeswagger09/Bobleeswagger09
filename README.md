@@ -53,13 +53,6 @@
 - CI/CD best practices & DevOps automation  
 - Open-source contributions & technical writing  
 
-🎓 **Education**  
-- Miva Open University  
-- ALX Software Engineering Program  
-- 100 Days of Code – Dr. Angela Yu (Python & Web Dev)
-
----
-
 🚀 **Roadmap Goals**
 - Master scalable systems and lead end-to-end architecture decisions  
 - Level up debugging and profiling for enterprise-scale applications  
@@ -71,5 +64,5 @@
 🌐 **Let’s Connect**  
 📫 **Email**: [samuelvictoralexander@gmail.com](mailto:samuelvictoralexander@gmail.com)  
 🌍 **Portfolio**: [samuelvictor.vercel.app](https://samuelvictor.vercel.app)  
-🐦 **Twitter**: [@SecureBootSammy](https://twitter.com/SecureBootSammy)  
+🐦 **Twitter**: [@SecureBootSammy](https://twitter.com/S_RankDev)  
 💼 **LinkedIn**: [Victor Samuel](https://www.linkedin.com/in/ediong-seyene-samuel-42a092220/)
