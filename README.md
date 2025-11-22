@@ -64,5 +64,5 @@
 🌐 **Let’s Connect**  
 📫 **Email**: [samuelvictoralexander@gmail.com](mailto:samuelvictoralexander@gmail.com)  
 🌍 **Portfolio**: [samuelvictor.vercel.app](https://samuelvictor.vercel.app)  
-🐦 **Twitter**: [@SecureBootSammy](https://twitter.com/S_RankDev)  
+🐦 **Twitter**: [@S_RankDev](https://twitter.com/S_RankDev)  
 💼 **LinkedIn**: [Victor Samuel](https://www.linkedin.com/in/ediong-seyene-samuel-42a092220/)
