@@ -4,7 +4,7 @@
 💡 Full-Stack Developer passionate about building scalable, performant, and secure web applications.  
 🔍 **Specialties**: SEO, architecture design, system performance optimization, and developer mentorship.  
 🎨 **Frontend Focus**: Next.js, TypeScript, Tailwind CSS, Framer Motion— building delightful UI/UX with responsiveness and animations.  
-⚙️ **Backend Strengths**: Express.js, Golang (currently learning for backend development), Prisma, MongoDB — API design, authentication, caching, and test-driven development (Jest).  
+⚙️ **Backend Strengths**: C# Express.js, (currently learning for backend development), Prisma, MongoDB — API design, authentication, caching, and test-driven development (Jest).  
 🛠️ **Mindset**: Obsessed with clean architecture, debugging, and writing maintainable, production-ready code.
 
 ---
